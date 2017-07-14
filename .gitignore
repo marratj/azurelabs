@@ -1,0 +1,5 @@
+*tfstate*
+Set-Environment.ps1
+*.iso
+*.box
+*.vagrant
